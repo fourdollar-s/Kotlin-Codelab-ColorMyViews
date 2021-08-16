@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_wide">16dp</dimen>
+
+    <!--add a dimension resource for the font size-->
+    <dimen name="box_text_size">24sp</dimen>
+</resources>
